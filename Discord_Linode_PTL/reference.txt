@@ -7,3 +7,4 @@ In this video, we hook up Pandas TA to a Discord
 webhook to send TA notifications to a chat server
 
 Access to Linode server via powershell - linux commands work fine
+not sure how to use Bash to automate the installation and setup
