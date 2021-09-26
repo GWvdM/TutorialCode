@@ -1,0 +1,9 @@
+Part Time Larry - Discord TA Notifications and Linode Server Setup
+https://www.youtube.com/watch?v=g0JhG62ws6M
+https://github.com/hackingthemarkets/pandas-ta-tutorial
+
+
+In this video, we hook up Pandas TA to a Discord 
+webhook to send TA notifications to a chat server
+
+Access to Linode server via powershell - linux commands work fine
